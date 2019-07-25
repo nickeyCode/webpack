@@ -8,7 +8,6 @@ import log from './utils/logUtil'
 import i18n from './utils/i18n/i18n'
 import dataService from './service/dataService'
 //import element-ui
-import '../theme/index.css';
 
 
 

@@ -1,5 +1,5 @@
 module.exports = {
   message:{
-    hello:"中文"
+    hello:"欢迎"
   }
 };

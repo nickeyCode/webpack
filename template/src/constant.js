@@ -3,8 +3,5 @@ export default {
   ApiPath:{
     UAT:'https://adminuat.tapngo.com.hk/krplus/api',
     PROD:'prod'
-  },
-  PublicPEM: '-----BEGIN PUBLIC KEY-----'+
-    'MIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEA0d1aRnU3ehjF+i3tbzhn8hiuoEwg0umB4nRqUp1rHvea7XUS8B8u/0YpMvgSzn1rIsiZWA0M3ROzeccp30VVogq4xrLiy+iG9l/bcMSwzItGMbx4ccO9kg27KReeHwAGlZNlzkhj2VvR38e93GjrHYAioYeAeH6/sSAAv9y8hcXTRkaIOTgCqL9wjVNHN2dFv3tOj8A+OwX3R03xTXe+FRPSVWgVGsPzz6T9YiC2vm+6vx/zpU3eDIaP3X4mYBeheFupXGWFN5ufIqOmkl0JW1PlsSf2xww9m39q2o3n2SnKkMpnjTbPrr0FupYQG1G3NhRwjuc7AUetv5AjtR0+sEtyYoCHYEQJATEi1sI0hv5S/58+CngSOFJj099isw4peM1B+rjRHPxkJGkpp/Mk0IHVUnGh7AcZMJbyBt1cPJF506aMZdKp9BFqD6su5Ju7Me60eBbU8FTHPyVfj5FM9XAbwOV9SJx8S8S5BHPIbyWA98MGYk06WVTVfbVmuunXrLbqABi3+5XTfHYeBfiHynLDbWUNa6KuGAD5Jh+t174sPpH0TljlpyTurAjGFynPeUQlHy9Dbx2WmnjNUtRg9TXi5L35Gtc4OqsPO0dOc6Nij6jzq0JdHJWbQgGVA1ahCViPJrtOIHTKq/gWT8ZJ5Iug7+fZqxlZzuKSVH5khZ8CAwEAAQ=='+
-    '-----END PUBLIC KEY-----'
+  }
 }
